@@ -1,8 +1,12 @@
-application: mashname
+application: inlinecssapp
 version: 1
 runtime: python27
 threadsafe: no
 api_version: 1
+default_expiration: "8h"
+ 
+inbound_services:
+- warmup
 
 handlers:
 - url: /.*

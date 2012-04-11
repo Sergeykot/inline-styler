@@ -8,7 +8,7 @@ DEBUG = True
 TEMPLATE_DEBUG = DEBUG
 
 ADMINS = (
-	('David Cranwell', 'david@torchbox.com'),
+	('Sergey Kotov', 's-kotovskiy@rambler.ru'),
 )	
 
 MANAGERS = ADMINS

@@ -1,1 +1,1 @@
-ROOT_URL = 'http://inlinestyler.googleappengine.com'
+ROOT_URL = 'http://inlinecssapplication.appspot.com/'
